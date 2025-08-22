@@ -1,0 +1,10 @@
+**/__pycache__/
+**/build/
+**/dist/
+*.spec
+*.crt
+*.idea
+*.xlsx
+Добавить Лдапы.txt
+app.txt
+*.log

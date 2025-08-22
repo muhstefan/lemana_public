@@ -1,0 +1,9 @@
+url_eq = None
+url_deal_information = None
+url_deals_spp_list = None
+credentials = None
+SCOPES = None
+headersDeals = None
+headersEQ = None
+cert_1 = None
+cert_2 = None
